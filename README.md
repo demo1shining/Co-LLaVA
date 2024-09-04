@@ -1,4 +1,5 @@
 Co-LLaVA: Efficient Remote Sensing Visual Question Answering via Model Collaboration
+![image](https://github.com/user-attachments/assets/c8c3e464-c205-4d13-bab4-190a4e782e9a)
 
 ### Preparing environment via official code of CoCa and LLaVA
 Coca: https://github.com/mlfoundations/open_clip
