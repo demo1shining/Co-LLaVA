@@ -1,0 +1,1810 @@
+[
+    {
+        "input": "A short image description:<img_path>rsitmd_boat_0.png<img_path>",
+        "output": "Two large ships loaded with cargo were moored on both sides of the gray port."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_playground_1.png<img_path>",
+        "output": "One side of the four table tennis courts is a bare ground and the other side is a green playground."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_airport_2.png<img_path>",
+        "output": "Some planes are in an airport near several buildings and a parking lot."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_airport_3.png<img_path>",
+        "output": "The ground is brown, the roads are grey and the buildings are white."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_airport_4.png<img_path>",
+        "output": "It is gray parking apron, gray roads, green and yellow grassland, gray buildings and gray planes."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_airport_5.png<img_path>",
+        "output": "On the apron surrounded by the airport runway, there is a y-shaped terminal with some planes parked in an orderly way."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_airport_6.png<img_path>",
+        "output": "The parking lot next to the silver building was packed with cars."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_airport_7.png<img_path>",
+        "output": "The two planes were parked side by side next to a gray rectangular building."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_airport_8.png<img_path>",
+        "output": "A large number of planes were parked neatly at the airport."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_airport_9.png<img_path>",
+        "output": "The parking apron with plane parked on it is surrounded by terminal buildings and airport runways."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_airport_10.png<img_path>",
+        "output": "On the parking apron there is a semi circular building connected with a long narrow buildings with planes parked along."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_airport_11.png<img_path>",
+        "output": "A simple termial building sits alongside rows of buildings besides the apron which is connected to the runways."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_airport_12.png<img_path>",
+        "output": "Some planes are parked near a building in an airport."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_bareland_13.png<img_path>",
+        "output": "The red and white house is surrounded by full of green and is flanked by an open space."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_bareland_14.png<img_path>",
+        "output": "Several buildings are located on the yellow wasteland."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_bareland_15.png<img_path>",
+        "output": "Wide roads pass through bare and leaking land."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_bareland_16.png<img_path>",
+        "output": "There is a lake on one side of the land."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_bareland_17.png<img_path>",
+        "output": "This is a tract of bareland where there are basins of maroon soil."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_baseballfield_18.png<img_path>",
+        "output": "The gray house found the green plants beside the red and yellow baseball field."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_baseballfield_19.png<img_path>",
+        "output": "The two baseball fields and the football field are side by side."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_baseballfield_20.png<img_path>",
+        "output": "The center of the three baseball fields of different sizes is a gray area."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_baseballfield_21.png<img_path>",
+        "output": "The baseball field is built on the lawn, and the same building is on the straight side."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_baseballfield_22.png<img_path>",
+        "output": "The baseball field is in the corner of two crossed roads as well as the corner of a dihedral building."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_baseballfield_23.png<img_path>",
+        "output": "The two baseball fields are surrounded by many green trees and there is also a parking space."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_baseballfield_24.png<img_path>",
+        "output": "There is a parking lot next to the orange baseball field."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_baseballfield_25.png<img_path>",
+        "output": "Alongside the winding road to a parking lot  there is four baseballfields  two of which is smaller than the other two baseballfields."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_baseballfield_26.png<img_path>",
+        "output": "There are six tennis courts next to the baseball field."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_beach_27.png<img_path>",
+        "output": "The coastline is curved and the sea water is crystal clear."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_beach_28.png<img_path>",
+        "output": "The patches of green sea and pale yellow beaches are side by side."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_beach_29.png<img_path>",
+        "output": "Many people were sitting on the beach with green trees beside them."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_beach_30.png<img_path>",
+        "output": "The white waves in the green ocean are close to the yellow beach, where there are parking lots and green trees."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_beach_31.png<img_path>",
+        "output": "Beside the yellow beach is a green ocean with white waves."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_beach_32.png<img_path>",
+        "output": "We can see that the boundary of dry sand on the beach is a wavy line."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_beach_33.png<img_path>",
+        "output": "Gray yellow beach is between green ocean and many green trees."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_beach_34.png<img_path>",
+        "output": "Many green buildings and trees are close to the green sea and next to the yellow sand beach."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_beach_35.png<img_path>",
+        "output": "Near the yellow beach, there is a green ocean with a row of white waves."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_beach_36.png<img_path>",
+        "output": "Many people are on the yellow beach near the green ocean."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_beach_37.png<img_path>",
+        "output": "Many orderly little things are located near the green ocean."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_beach_38.png<img_path>",
+        "output": "There are many people playing here on the beach."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_beach_39.png<img_path>",
+        "output": "The sea in front of the beach is wide."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_beach_40.png<img_path>",
+        "output": "The coastline is straight and the sea water has the same texture as fish."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_beach_41.png<img_path>",
+        "output": "White waves are between green ocean and yellow beach with some green plants."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_bridge_42.png<img_path>",
+        "output": "There is a bridge on the river and the banks of the river are covered with grass."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_bridge_43.png<img_path>",
+        "output": "The bridge is on the river and the boat is in the river."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_bridge_44.png<img_path>",
+        "output": "The narrow bridge spans three plant belts."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_bridge_45.png<img_path>",
+        "output": "There are white boats on both sides of the dark blue river."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_bridge_46.png<img_path>",
+        "output": "Under the two-way six-lane bridge, there is a light blue river."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_bridge_47.png<img_path>",
+        "output": "A highway bridge connects the two sides of the river which has several houses with red roofs and blue roofs."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_bridge_48.png<img_path>",
+        "output": "A bridge is over a large river with some green plants in two sides."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_bridge_49.png<img_path>",
+        "output": "Two yachts is going to cross a raft bridge which connects the houses along the river with parked boats."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_bridge_50.png<img_path>",
+        "output": "Three cars were driving on the bridge opposite the green river."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_bridge_51.png<img_path>",
+        "output": "There is a bridge on the river and there are some buildings near it."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_bridge_52.png<img_path>",
+        "output": "The gray bridge was empty, with houses and cars on both sides."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_bridge_53.png<img_path>",
+        "output": "Beside a bridge covered with white iron, there was a moving boat."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_bridge_54.png<img_path>",
+        "output": "We can see two parallel bridges with railways and highways lying across the river and on a highway along the river."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_bridge_55.png<img_path>",
+        "output": "The land along the river is full of grass."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_bridge_56.png<img_path>",
+        "output": "A road cross the river with trees growing along has rows of automobiles traveling orderly."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_center_57.png<img_path>",
+        "output": "Next to the gray conference center in the square, the parking lot was packed with cars."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_center_58.png<img_path>",
+        "output": "Silver circle convention center has several houses for a week."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_center_59.png<img_path>",
+        "output": "Two buildings, several green trees, are surrounded by a square building."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_center_60.png<img_path>",
+        "output": "The white building between the ferris wheel and the square building, near a river, has two small boats."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_center_61.png<img_path>",
+        "output": "The center of the fallen leaves stands at the corner of two intersecting roads."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_center_62.png<img_path>",
+        "output": "A metal building is distributed on the leaf square. there is a lawn between the two roads and a car is parked."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_center_63.png<img_path>",
+        "output": "Here is a tent shaped grey building located in a circular zone  near which the ground is paved by square bricks."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_center_64.png<img_path>",
+        "output": "The red rectangular central building is located between the railway and the highway with cars."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_center_65.png<img_path>",
+        "output": "Several green trees and several streets almost form a circle of concentric buildings."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_center_66.png<img_path>",
+        "output": "The circular building with a white center is surrounded by trees and several buildings."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_center_67.png<img_path>",
+        "output": "There are two white domed buildings in the center of the earth."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_center_68.png<img_path>",
+        "output": "The central building is surrounded by a large number of densely populated areas."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_center_69.png<img_path>",
+        "output": "Circular white buildings and some square buildings are surrounded by streets and houses with red roofs, as well as parked cars."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_center_70.png<img_path>",
+        "output": "On the semi-circular square at the corner of the road, there are three gray mouse-like buildings of different sizes."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_church_71.png<img_path>",
+        "output": "The roof of the church is cardboard and colored with brown and orange."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_church_72.png<img_path>",
+        "output": "The church is on the right side of the street. there are lots of cars."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_church_73.png<img_path>",
+        "output": "You can see a building of irregular shape, including a church with a gray roof."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_church_74.png<img_path>",
+        "output": "A church with a blu e roof and a square building are surrounded by two streets decorated with trees."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_church_75.png<img_path>",
+        "output": "The church is by the river. there are several boats."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_church_76.png<img_path>",
+        "output": "Many plants were planted in front of the church."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_church_77.png<img_path>",
+        "output": "The house has a lot of brown roofs."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_church_78.png<img_path>",
+        "output": "There is a church with a cruciform roof in one block."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_church_79.png<img_path>",
+        "output": "There are cars in the courtyard of churches with black and white or brick red roofs."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_church_80.png<img_path>",
+        "output": "A green church in the form of a cross with a pyramid roof is located in a square surrounded by red roof houses and a parking lot."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_church_81.png<img_path>",
+        "output": "This church is surrounded by the river."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_church_82.png<img_path>",
+        "output": "There is a quiet river next to an orange church. there is a sky blue building on the other side of the river"
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_church_83.png<img_path>",
+        "output": "At the top of the red rectangular hall is a circular building"
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_commercial_84.png<img_path>",
+        "output": "At this intersection, they form two straight roads surrounded by many buildings."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_commercial_85.png<img_path>",
+        "output": "The business district is divided into several sections by the streets, each of which has dense buildings."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_commercial_86.png<img_path>",
+        "output": "They are white, red, gray buildings, gray roads, green trees and blue-green lake."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_commercial_87.png<img_path>",
+        "output": "Commercial advertisements are distributed in the four corners of the intersection."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_commercial_88.png<img_path>",
+        "output": "Several skyscrapers are scattered among the ordinary buildings in this business district."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_commercial_89.png<img_path>",
+        "output": "A large number of cars were parked at the entrance of the skyscraper."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_commercial_90.png<img_path>",
+        "output": "High-rise buildings belong to the economic center of the city."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_commercial_91.png<img_path>",
+        "output": "Houses with brown and gray roofs on the land."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_commercial_92.png<img_path>",
+        "output": "Privateers split the trade into two parts, one of which was located next to a warehouse."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_commercial_93.png<img_path>",
+        "output": "There is a river near the building."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_commercial_94.png<img_path>",
+        "output": "A tightly decorated commercial building."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_commercial_95.png<img_path>",
+        "output": "There are many green plants in the middle and many buildings around."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_commercial_96.png<img_path>",
+        "output": "Each building and each building are tightly side by side."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_commercial_97.png<img_path>",
+        "output": "A shopping district lies between two straight roads. in the middle of the shopping district is a playground"
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_denseresidential_98.png<img_path>",
+        "output": "Many green trees have been organized in the residential area."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_denseresidential_99.png<img_path>",
+        "output": "Several trees interspersed in the residential which has some red and ultramarine flats."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_denseresidential_100.png<img_path>",
+        "output": "There is a street lined with trees in the shadow of a tree."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_denseresidential_101.png<img_path>",
+        "output": "The house is built along the streets while the meadows are at the center of the blocks."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_denseresidential_102.png<img_path>",
+        "output": "Many grey buildings and some green trees are in the commercial area."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_denseresidential_103.png<img_path>",
+        "output": "A gray roof with a white roof."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_denseresidential_104.png<img_path>",
+        "output": "The road is densely populated on both sides."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_denseresidential_105.png<img_path>",
+        "output": "This area is a high-end residential area."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_denseresidential_106.png<img_path>",
+        "output": "There are roads in the vertical direction across the dry river in some compact houses."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_denseresidential_107.png<img_path>",
+        "output": "There are some houses with gardens built opposite different directions where the curved roads pass through."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_denseresidential_108.png<img_path>",
+        "output": "Here is an area of apartment buildings between a river and a road."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_denseresidential_109.png<img_path>",
+        "output": "A small piece of desolate land in it while next to the residence."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_denseresidential_110.png<img_path>",
+        "output": "The interior of the community building is very close."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_denseresidential_111.png<img_path>",
+        "output": "The gray house is zigzag, with green plant belts everywhere"
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_desert_112.png<img_path>",
+        "output": "Beige deserts conflict as long as the eye can be seen."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_desert_113.png<img_path>",
+        "output": "Some rocks are in the desert which has a light and a dark color."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_desert_114.png<img_path>",
+        "output": "There is a rock hill between two stretches of strip shaped quicksand."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_desert_115.png<img_path>",
+        "output": "There is a lake in the desert with wood grain patterns on it."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_desert_116.png<img_path>",
+        "output": "There are many traces of water in the desert."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_desert_117.png<img_path>",
+        "output": "There is sand everywhere in the desert."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_desert_118.png<img_path>",
+        "output": "There are several roads in the desert."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_desert_119.png<img_path>",
+        "output": "There are some crooked marks in the desert."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_desert_120.png<img_path>",
+        "output": "It is a small flash light yellow desert with scretch of some steak strips."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_desert_121.png<img_path>",
+        "output": "There is a white pattern on the orange desert, like a spray in the sea."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_desert_122.png<img_path>",
+        "output": "The ground is free in the desert."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_desert_123.png<img_path>",
+        "output": "The layers of sand on the pale yellow desert are extremely irregular"
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_farmland_124.png<img_path>",
+        "output": "The blocks of agricultural land are arranged in an orderly manner."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_farmland_125.png<img_path>",
+        "output": "Farmland is made up of several small squares of gradient colors."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_farmland_126.png<img_path>",
+        "output": "We can see the brown striped farmland with netlike roads on it."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_farmland_127.png<img_path>",
+        "output": "The line of trees divided striped brown farmland into several squares."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_farmland_128.png<img_path>",
+        "output": "It's brown, green and dark green land, light yellow roads."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_farmland_129.png<img_path>",
+        "output": "A small wild road is part of the green farmland."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_farmland_130.png<img_path>",
+        "output": "Some green trees in one line are almost found in different pieces of agricultural land."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_farmland_131.png<img_path>",
+        "output": "In the middle of the two wheat fields there was a bare earth."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_farmland_132.png<img_path>",
+        "output": "A house with a white roof was built next to a piece of land."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_farmland_133.png<img_path>",
+        "output": "There is a white farmland and a light green farmland whose stripes are vertical to each other."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_farmland_134.png<img_path>",
+        "output": "This dark green checkered field is close to a pond."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_farmland_135.png<img_path>",
+        "output": "A curved river and a road surround the agricultural land that is clear green with some trees."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_farmland_136.png<img_path>",
+        "output": "The square agricultural land that is cream and light green contains some blocks."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_farmland_137.png<img_path>",
+        "output": "The checkered pattern farmland is decorated with several trees near the forest."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_farmland_138.png<img_path>",
+        "output": "Grow crops on the farm."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_farmland_139.png<img_path>",
+        "output": "The ranch has a line through the mountain road."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_farmland_140.png<img_path>",
+        "output": "There are two circles in the center of the yellow countryside"
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_forest_141.png<img_path>",
+        "output": "There are all the dark green trees in the forest."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_forest_142.png<img_path>",
+        "output": "There is a road through the dense forest with dark green."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_forest_143.png<img_path>",
+        "output": "This is a field of grass and trees."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_forest_144.png<img_path>",
+        "output": "A small yellow river is next to a large part of the green forest."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_forest_145.png<img_path>",
+        "output": "A lot of green plants are planted in the forest at."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_forest_146.png<img_path>",
+        "output": "The forest grows very prosperous."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_forest_147.png<img_path>",
+        "output": "The forest covers a large area and a luxurious growth."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_forest_148.png<img_path>",
+        "output": "There are various forest resources in the forest."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_forest_149.png<img_path>",
+        "output": "A curved road stretches through this forest next to small pitches of bareland and lawns."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_forest_150.png<img_path>",
+        "output": "The hillside is covered with green grass."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_forest_151.png<img_path>",
+        "output": "There is an s-shaped road in the middle of the forest"
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_industrial_152.png<img_path>",
+        "output": "The modern industrial area includes various factories, curved roads and well organized lawns."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_industrial_153.png<img_path>",
+        "output": "It is a neat and clean industrial block where workshops have white roofs."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_industrial_154.png<img_path>",
+        "output": "Some blue buildings are located in the factory area."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_industrial_155.png<img_path>",
+        "output": "A residential area a factory and a parking lot with tree belts are separated by a river and a road."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_industrial_156.png<img_path>",
+        "output": "A factory with a parked car is located in the triangular area surrounded by two roads and railways."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_industrial_157.png<img_path>",
+        "output": "There are many fields near the industrial area near the road."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_industrial_158.png<img_path>",
+        "output": "A lot of green plants are planted around the factory."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_industrial_159.png<img_path>",
+        "output": "There are factories everywhere on the ground."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_industrial_160.png<img_path>",
+        "output": "Many white factories have been built in the industrial district."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_industrial_161.png<img_path>",
+        "output": "A lot of grey buildings were built in the factory district."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_industrial_162.png<img_path>",
+        "output": "The buildings in the industrial area are very dense."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_industrial_163.png<img_path>",
+        "output": "We can see a industrial area where roofs are mostly blue surrounded by woods."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_industrial_164.png<img_path>",
+        "output": "There are many workshops in the industrial area of the suburb."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_industrial_165.png<img_path>",
+        "output": "Central city distribution with many industrial zone."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_industrial_166.png<img_path>",
+        "output": "Next to the beautiful workman's dormitory at the factory."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_industrial_167.png<img_path>",
+        "output": "A small river cuts through the dense industrial area."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_industrial_168.png<img_path>",
+        "output": "In the blue industrial area, two red industrial areas"
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_industrial_169.png<img_path>",
+        "output": "A gray house and a white house are close to each other."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_industrial_170.png<img_path>",
+        "output": "There are many buildings and some green trees in the industrial area."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_industrial_171.png<img_path>",
+        "output": "Some industrial buildings and some green trees are in the industrial area."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_meadow_172.png<img_path>",
+        "output": "A meadow with dark green land and sparse plants while with some trees besides."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_meadow_173.png<img_path>",
+        "output": "There are three khaki points in the meadow."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_meadow_174.png<img_path>",
+        "output": "This is a green and brown grassland."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_meadow_175.png<img_path>",
+        "output": "It is part of the cut grassland."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_meadow_176.png<img_path>",
+        "output": "The grass grows very well on this land."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_meadow_177.png<img_path>",
+        "output": "There is a lot of luxuriant grass on the pasture."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_meadow_178.png<img_path>",
+        "output": "On one side of the pasture there was a land without land."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_meadow_179.png<img_path>",
+        "output": "A lot of cars are parked on the side of the road."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_meadow_180.png<img_path>",
+        "output": "The grass is all over the grass."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_meadow_181.png<img_path>",
+        "output": "Green plants on the land, and some trees to be built."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_meadow_182.png<img_path>",
+        "output": "A piece of shrubs near the pasture."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_meadow_183.png<img_path>",
+        "output": "There are five kinds of plants on the green grass"
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_mediumresidential_184.png<img_path>",
+        "output": "Rows of buildings located in an ordered accommodation."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_mediumresidential_185.png<img_path>",
+        "output": "There is a house scattered on the lawn through several roads."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_mediumresidential_186.png<img_path>",
+        "output": "Several houses are built by the road in this peaceful neighborhood."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_mediumresidential_187.png<img_path>",
+        "output": "The leaves of the trees are gone."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_mediumresidential_188.png<img_path>",
+        "output": "Many cars are parked on both sides of the road."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_mediumresidential_189.png<img_path>",
+        "output": "The brown roof park parked a white car in front of the house."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_mediumresidential_190.png<img_path>",
+        "output": "Straight roads extend through this stylish residential building where many lush trees stand."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_mediumresidential_191.png<img_path>",
+        "output": "Six smart houses sits in this green community with a road passing by."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_mediumresidential_192.png<img_path>",
+        "output": "At the bank of this brook sits several houses surrounded by lush trees."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_mediumresidential_193.png<img_path>",
+        "output": "There are not many people living there."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_mediumresidential_194.png<img_path>",
+        "output": "The square of the residential building is very good."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_mediumresidential_195.png<img_path>",
+        "output": "There is only one red house in this residential area"
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_mediumresidential_196.png<img_path>",
+        "output": "Some buildings and many green trees are in the middle residential area."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_mountain_197.png<img_path>",
+        "output": "The torrent of the river washed away the surrounding mountains and the stones in the water."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_mountain_198.png<img_path>",
+        "output": "The river flows through undulating mountains."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_mountain_199.png<img_path>",
+        "output": "Mountain passes stretch through this mountain range which is half green half bald."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_mountain_200.png<img_path>",
+        "output": "The mountains are green, some of the ground is gray, and the trees are green."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_mountain_201.png<img_path>",
+        "output": "These long narrow ridges are covered with white snow."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_mountain_202.png<img_path>",
+        "output": "The mountains and the clouds."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_mountain_203.png<img_path>",
+        "output": "Many rivers flow under the mountain."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_mountain_204.png<img_path>",
+        "output": "The height of this mountain is very high."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_mountain_205.png<img_path>",
+        "output": "There are lakes on the mountain and bare land in the valley, covered with snow."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_mountain_206.png<img_path>",
+        "output": "There is a large area of bare ground in the mountain chain."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_park_207.png<img_path>",
+        "output": "There are all kinds of plants in the park."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_park_208.png<img_path>",
+        "output": "In my opinion, the garden is very beautiful."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_park_209.png<img_path>",
+        "output": "On the bank of the river  there is a pond in the park surrounded by residential area."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_park_210.png<img_path>",
+        "output": "There is a river with a road passing over  on both sides of which is a park with a group of buildings."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_park_211.png<img_path>",
+        "output": "A circle platform is in the center of a park which is between two lakes."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_park_212.png<img_path>",
+        "output": "Many green trees are sparsely scattered around irregular ponds."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_park_213.png<img_path>",
+        "output": "The lake is surrounded by many thick trees."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_park_214.png<img_path>",
+        "output": "There is a residential area near the park."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_park_215.png<img_path>",
+        "output": "The center of the earth is a very large park."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_park_216.png<img_path>",
+        "output": "The bell like park with a lake and a whit block is close to the sea."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_park_217.png<img_path>",
+        "output": "The park with a blue pool surrounding the circular square is in the desert."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_park_218.png<img_path>",
+        "output": "Half of the park is forest and lake, the other half is entertainment."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_park_219.png<img_path>",
+        "output": "There are many green plants in the park, and there are also roads for people to walk."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_park_220.png<img_path>",
+        "output": "Park on the ground are covered with grass."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_park_221.png<img_path>",
+        "output": "There are many trees planted on the green grass in the park."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_park_222.png<img_path>",
+        "output": "On the other side of the vertical road, there is a blue runway around the playground."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_parking_223.png<img_path>",
+        "output": "In the parking lot, there are all types of vehicles with different sizes."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_parking_224.png<img_path>",
+        "output": "What's on the side of the road is a square parking lot with a lot of cars in it."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_parking_225.png<img_path>",
+        "output": "There is a parking lot near the two black buildings with several cars."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_parking_226.png<img_path>",
+        "output": "This is a parking lot next to the house."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_parking_227.png<img_path>",
+        "output": "A row of trees stands separating this parking lot which is crammed with cars."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_parking_228.png<img_path>",
+        "output": "Small parking in the parking lot."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_parking_229.png<img_path>",
+        "output": "There is a wide path beside the parking lot."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_parking_230.png<img_path>",
+        "output": "The parking lot is very large and covers a large area."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_parking_231.png<img_path>",
+        "output": "The car was orderly parked in the concrete parking lot."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_parking_232.png<img_path>",
+        "output": "There is a large outdoor parking lot on the roadside."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_parking_233.png<img_path>",
+        "output": "There are only a few vacant parking spaces in this parking lot."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_parking_234.png<img_path>",
+        "output": "The arrangement of the car is so ordered."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_parking_235.png<img_path>",
+        "output": "There are all kinds of car parking in colors."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_parking_236.png<img_path>",
+        "output": "There is an l-shaped yellow house in the middle of the parking lot."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_playground_237.png<img_path>",
+        "output": "Two football fields are surrounded by fields of land."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_playground_238.png<img_path>",
+        "output": "Black playground with white road, surrounded by some dark green plants."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_playground_239.png<img_path>",
+        "output": "The playground is near the building and the pond."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_playground_240.png<img_path>",
+        "output": "This is a big gymnasium in many buildings."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_playground_241.png<img_path>",
+        "output": "Part of the football field is bare in the restricted area."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_playground_242.png<img_path>",
+        "output": "The red running truck surrounds this green soccer playground."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_playground_243.png<img_path>",
+        "output": "A football field is close to a piece of green lawn."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_playground_244.png<img_path>",
+        "output": "There is a large green space on the playground."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_playground_245.png<img_path>",
+        "output": "There is a house with a white roof next to the playground."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_playground_246.png<img_path>",
+        "output": "Red running tracks are surrounding this soccer pitch that is partly bald near its goals."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_playground_247.png<img_path>",
+        "output": "It's a playground, and at the corner of a cross-section there are two buildings with tree belts on them."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_playground_248.png<img_path>",
+        "output": "A series of trees have been planted in the surrounding area."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_playground_249.png<img_path>",
+        "output": "There are two rows of trees next to the playground."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_playground_250.png<img_path>",
+        "output": "Having a stadium with a plastic rink, the court has a huge green football field, tennis courts at the redor and little football field."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_playground_251.png<img_path>",
+        "output": "In the middle of the light brown track is a green playground"
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_playground_252.png<img_path>",
+        "output": "Green playground, purple one-way street on both sides"
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_pond_253.png<img_path>",
+        "output": "The irregular lake contains dark green water and is surrounded by a row of trees and crowded houses."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_pond_254.png<img_path>",
+        "output": "Some buildings and bars landes are around the elliptical pond."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_pond_255.png<img_path>",
+        "output": "One road is close to two square ponds."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_pond_256.png<img_path>",
+        "output": "There is a pond by the river with many sparse green trees."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_pond_257.png<img_path>",
+        "output": "The pond in the square is surrounded by meadow."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_pond_258.png<img_path>",
+        "output": "An almost triangular green pond is surrounded by many green trees."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_pond_259.png<img_path>",
+        "output": "It is an irregularly shaped pond down this little hill alongside a fold road."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_pond_260.png<img_path>",
+        "output": "There are two ponds of work between an agricultural land and forests along with buildings and dirt roads."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_pond_261.png<img_path>",
+        "output": "A pond is between a piece of green meadow and a yellow barland."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_pond_262.png<img_path>",
+        "output": "A swimming pool is surrounded by green grass."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_pond_263.png<img_path>",
+        "output": "Rectangular ponds are separated from two many small rectangles."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_pond_264.png<img_path>",
+        "output": "There is a lake in the middle of the grassland."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_pond_265.png<img_path>",
+        "output": "There is a lake near the highway."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_pond_266.png<img_path>",
+        "output": "The redor on the lake has some brown-covered houses."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_pond_267.png<img_path>",
+        "output": "The water in this pond wavers as several trees stagnate scarcely from the shore."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_pond_268.png<img_path>",
+        "output": "The pond is trapezoidal in one side of which there are some trees and in other sides of which there are many tracts of farmland."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_pond_269.png<img_path>",
+        "output": "This deep blu e lake is surrounded by scattered trees and country road."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_pond_270.png<img_path>",
+        "output": "This is a pond with dark green water in the middle."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_pond_271.png<img_path>",
+        "output": "There is a mountain near the pond."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_pond_272.png<img_path>",
+        "output": "The crops are there by the pond."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_pond_273.png<img_path>",
+        "output": "A regular shaped pond is divided into two different colors by a white road"
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_pond_274.png<img_path>",
+        "output": "There are two red and blue buildings next to the dark blue lake"
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_port_275.png<img_path>",
+        "output": "The green water surrounding the port is very clear."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_port_276.png<img_path>",
+        "output": "The harbour is surrounded by clear sea water."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_port_277.png<img_path>",
+        "output": "There is a harbor near a residential area by the sea, and the boats are moored side by side."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_port_278.png<img_path>",
+        "output": "It is a white ship or building, a green sea."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_port_279.png<img_path>",
+        "output": "You can see rows of boats anchored in the harbor and a road through a canal in the harbor."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_port_280.png<img_path>",
+        "output": "There are many places for a relatively large port."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_port_281.png<img_path>",
+        "output": "The color of the water is very dark."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_port_282.png<img_path>",
+        "output": "Some trees have been planted around the harbor."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_port_283.png<img_path>",
+        "output": "A green pond is in the hills,surrounded by rocks."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_port_284.png<img_path>",
+        "output": "There are many houses near the harbor."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_port_285.png<img_path>",
+        "output": "A prking lot stands in the middle separating the port into two parts where lots of ships dock."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_port_286.png<img_path>",
+        "output": "The port is located near the road and some buildings, possessing two seawalls."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_port_287.png<img_path>",
+        "output": "These densely populated areas are just in front of the sea."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_port_288.png<img_path>",
+        "output": "The narrow harbor is built between the buildings, and the ships dock in it."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_port_289.png<img_path>",
+        "output": "Port of green plants are very beautiful."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_port_290.png<img_path>",
+        "output": "The port construction arrangement is very tight."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_port_291.png<img_path>",
+        "output": "The brown land surrounds the harbor and the boat is about to start"
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_railwaystation_292.png<img_path>",
+        "output": "There are several buildings and many green trees around the railway station."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_railwaystation_293.png<img_path>",
+        "output": "Between the house and some buildings, there is a railway station and a long building with two narrow white roofs."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_railwaystation_294.png<img_path>",
+        "output": "There are many railway lines in this railway station, most of which are occupied by trains."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_railwaystation_295.png<img_path>",
+        "output": "The road above the track is surrounded by dense residential areas."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_railwaystation_296.png<img_path>",
+        "output": "The railway station extends along the bustling streets, separating the crowded houses."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_railwaystation_297.png<img_path>",
+        "output": "This big railway station is located by the sea."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_railwaystation_298.png<img_path>",
+        "output": "The railway tracks protrude from the huge gray rectangular ceiling and enter the convergence area."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_railwaystation_299.png<img_path>",
+        "output": "This intelligent railway station with about 20 tracks is located between the grass and the dense buildings."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_railwaystation_300.png<img_path>",
+        "output": "The transportation to the railway station is very convenient."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_railwaystation_301.png<img_path>",
+        "output": "Most of the buildings in the station are dark gray."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_railwaystation_302.png<img_path>",
+        "output": "There are many buildings on both sides of the railway station. there is a long blue building."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_resort_303.png<img_path>",
+        "output": "There are some coloured buildings standing on both sides of this main road."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_resort_304.png<img_path>",
+        "output": "There is a resort near the beach with buildings, ponds and swimming pools."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_resort_305.png<img_path>",
+        "output": "Some green plants and many agricultural land are on two sides of a curved river."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_resort_306.png<img_path>",
+        "output": "On one side of the road, the resort's house is arranged in a curve near the lake."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_resort_307.png<img_path>",
+        "output": "It is a peaceful resort with lush trees and several buildings inside."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_resort_308.png<img_path>",
+        "output": "Some buildings and green trees are on an island of a pond surrounded by many green trees."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_resort_309.png<img_path>",
+        "output": "The resort consists of ponds, vegetation and houses."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_resort_310.png<img_path>",
+        "output": "Many houses have been built in this resort."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_resort_311.png<img_path>",
+        "output": "There is a large outdoor resort near the ocean."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_resort_312.png<img_path>",
+        "output": "The resort has two outdoor swimming pools."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_resort_313.png<img_path>",
+        "output": "A tall building stands in this resort with three swimming pool and a parking lot on its foot."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_resort_314.png<img_path>",
+        "output": "The coast of the square is surrounded by crowded roads."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_resort_315.png<img_path>",
+        "output": "In the resort, which has several yellow buildings and a swimming pool, there are few cars parked."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_resort_316.png<img_path>",
+        "output": "Next to the resort is a sea."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_resort_317.png<img_path>",
+        "output": "Hits the coconut trees in the wind."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_resort_318.png<img_path>",
+        "output": "There are many buildings and trees nearby, a harbor and two small parking lots for tennis courts."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_river_319.png<img_path>",
+        "output": "The green regions are surrounded by the black river."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_river_320.png<img_path>",
+        "output": "The left hand of the river is dense forests while the right hand is fertile agricultural land."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_river_321.png<img_path>",
+        "output": "The meandering river of khaki, near a j-shaped pond and a saddle shaped pond, runs through dense forests."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_river_322.png<img_path>",
+        "output": "Here lies a light beach on the bank of this curved yellow river through the lush forest."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_river_323.png<img_path>",
+        "output": "There is a green river and a brown one winding through the forest."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_river_324.png<img_path>",
+        "output": "There is a white building inside the lush forest that the yellow river passes through."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_river_325.png<img_path>",
+        "output": "There are trees on both sides of a dark blue river."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_river_326.png<img_path>",
+        "output": "Many small houses are located along the banks of the river."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_river_327.png<img_path>",
+        "output": "The river passes through the green fields."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_river_328.png<img_path>",
+        "output": "There is a small amount of bare land along the river."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_river_329.png<img_path>",
+        "output": "Many white houses have been built on green land."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_river_330.png<img_path>",
+        "output": "The lush forest is separated from the green farmland by the green river."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_river_331.png<img_path>",
+        "output": "It is a peaceful scene that the curved green river passes through this green forest."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_river_332.png<img_path>",
+        "output": "On one side of the river are rows of houses with blue roofs."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_river_333.png<img_path>",
+        "output": "The river is long and thin."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_river_334.png<img_path>",
+        "output": "There is a river in the middle, surrounded by clear water."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_river_335.png<img_path>",
+        "output": "It flows through a river on the mountain."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_river_336.png<img_path>",
+        "output": "On one side of the white river is a farm, and on the other side is a large plant belt."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_school_337.png<img_path>",
+        "output": "The building next to the school looks almost the same."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_school_338.png<img_path>",
+        "output": "There are some buildings and football fields in the school."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_school_339.png<img_path>",
+        "output": "The house is colorful, the ground is gray, and there are many colorful cars."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_school_340.png<img_path>",
+        "output": "The school has a parking lot between the forest and the road, and there are buildings on the lawn, separated by paths."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_school_341.png<img_path>",
+        "output": "There are school buses stoppong in the parking lot next to a grassland and buildings with black roof."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_school_342.png<img_path>",
+        "output": "There is a dark green vegetation near the school building."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_school_343.png<img_path>",
+        "output": "Many trees were planted around the house."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_school_344.png<img_path>",
+        "output": "This large area is a well equipped school."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_school_345.png<img_path>",
+        "output": "A large number of educational buildings have been built in the school."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_school_346.png<img_path>",
+        "output": "It is a peaceful campus with several teaching buildings surrounded by lush trees."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_school_347.png<img_path>",
+        "output": "Lush trees are decorating this school with several teaching buildings."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_school_348.png<img_path>",
+        "output": "This school is surrounded by lush forests and dense residential areas."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_school_349.png<img_path>",
+        "output": "The school is divided into different areas."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_school_350.png<img_path>",
+        "output": "The students hurried to school."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_school_351.png<img_path>",
+        "output": "There are two white buildings next to the green playground surrounded by the red runway"
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_school_352.png<img_path>",
+        "output": "There are three playgrounds in the school. there are many buildings and green trees."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_sparseresidential_353.png<img_path>",
+        "output": "A big square house with a dark brown roof and a small house next to it."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_sparseresidential_354.png<img_path>",
+        "output": "A trail passes through the grass, with several lakes and trees nas nearby."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_sparseresidential_355.png<img_path>",
+        "output": "The thick woods covered a house in the woods."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_sparseresidential_356.png<img_path>",
+        "output": "Dense trees surround this house and its swimming pool."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_sparseresidential_357.png<img_path>",
+        "output": "A path that connects the house to cemnet road from the street."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_sparseresidential_358.png<img_path>",
+        "output": "The road runs through the green and the white cars are on their side."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_sparseresidential_359.png<img_path>",
+        "output": "The forest is very large and the trees are blooming."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_sparseresidential_360.png<img_path>",
+        "output": "There is a street in front of the white house."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_sparseresidential_361.png<img_path>",
+        "output": "There are many residential areas next to the road."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_sparseresidential_362.png<img_path>",
+        "output": "Most of the region the residential area scattered are covered with green trees."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_sparseresidential_363.png<img_path>",
+        "output": "You can see that a river a prairie a piece of trees and a street is around the house with a pool."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_sparseresidential_364.png<img_path>",
+        "output": "The house next to the tree is luxuriant."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_sparseresidential_365.png<img_path>",
+        "output": "There is a big swimming pool on the ground."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_sparseresidential_366.png<img_path>",
+        "output": "Grey house on the other side of the swimming pool and grey road"
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_sparseresidential_367.png<img_path>",
+        "output": "There are many green trees and grass around a building with a swimming pool."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_square_368.png<img_path>",
+        "output": "There are several green trees around the square."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_square_369.png<img_path>",
+        "output": "There are many trees in the great square."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_square_370.png<img_path>",
+        "output": "There is a blue swimming pool and a building in the middle of the road."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_square_371.png<img_path>",
+        "output": "The streets are surrounded by green lawns and white corridors."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_square_372.png<img_path>",
+        "output": "Seven streets are connected to circular squares near some buildings."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_square_373.png<img_path>",
+        "output": "Surrounded by some blue buildings  there is a square with some rectangle patterns on the ground."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_square_374.png<img_path>",
+        "output": "Several buildings surround a rectangular square surrounded by sparse small trees."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_square_375.png<img_path>",
+        "output": "A straight path passes through an ellipse in the middle."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_square_376.png<img_path>",
+        "output": "In the center of the square there is a green grass tour."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_square_377.png<img_path>",
+        "output": "A lot of cars parked on the side of the square."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_square_378.png<img_path>",
+        "output": "Many cars were parked on the road."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_square_379.png<img_path>",
+        "output": "A circular flower bed is in the center of a radial square, containing some gray and white squares."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_square_380.png<img_path>",
+        "output": "The square looks very bright but a little old."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_square_381.png<img_path>",
+        "output": "There is a wing shaped square including some bare grounds and trees."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_square_382.png<img_path>",
+        "output": "It is a school with many buildings and trees, surrounded by roads."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_square_383.png<img_path>",
+        "output": "One square to green land in the middle."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_square_384.png<img_path>",
+        "output": "The square, alternatively yellow and brown, is surrounded by three layers of circles"
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_square_385.png<img_path>",
+        "output": "There are three polygons on the gray rectangle"
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_square_386.png<img_path>",
+        "output": "Many vehicles on the road in the the stream never stops flowing."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_stadium_387.png<img_path>",
+        "output": "The area next to the house files includes a beautiful white stadium."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_stadium_388.png<img_path>",
+        "output": "The stadium is very bright in color."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_stadium_389.png<img_path>",
+        "output": "The stadium between the two green trees is close to the road, and some cars are driving."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_stadium_390.png<img_path>",
+        "output": "Green grass revolves around a large gray stadium."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_stadium_391.png<img_path>",
+        "output": "Lots of bleachers are located in this stadium with white roofs next to its soccer field."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_stadium_392.png<img_path>",
+        "output": "Three sides of blearchers belonging to the football fields have ceilings and the other side has three layers of blearchers without ceiling."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_stadium_393.png<img_path>",
+        "output": "A large green and red stadium is close to some cars."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_stadium_394.png<img_path>",
+        "output": "There are plants both inside and outside the stadium."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_stadium_395.png<img_path>",
+        "output": "The white roof of the stadium is on the bare ground."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_stadium_396.png<img_path>",
+        "output": "In a block is a stadium with a white base and a blu e base on it two long sides respectively."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_stadium_397.png<img_path>",
+        "output": "Some trees were planted around the stadium."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_stadium_398.png<img_path>",
+        "output": "There are two houses on both sides of the courtyard with red roofs."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_stadium_399.png<img_path>",
+        "output": "This is a oval stadium with white roofs at the coner of bustling roads."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_stadium_400.png<img_path>",
+        "output": "The stadium, which radiates from the white ceiling to the center, has some angles on the field."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_stadium_401.png<img_path>",
+        "output": "The stadium with a white awning is located on the square, which has some empty parking lots."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_stadium_402.png<img_path>",
+        "output": "The facilities in the stadium are very good."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_stadium_403.png<img_path>",
+        "output": "Near grasslands with trees  there is a stadium with white grandstand on one side and blue grandstand on the opposite one."
+    },
+    {
+        "input": "A short image description:<img_path>rsitmd_stadium_404.png<img_path>",
+        "output": "The oval green playground is located in the center of the pure white playground."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_stadium_405.png<img_path>",
+        "output": "Round rectangular white stadium is near the crooked road."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_storagetanks_406.png<img_path>",
+        "output": "There are many complicated structures inside the factory, which are connected by pipes."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_storagetanks_407.png<img_path>",
+        "output": "There are six water tanks and several pipes beside the pond."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_storagetanks_408.png<img_path>",
+        "output": "Two rows of storage tanks and several other storage tanks are on bare land near the highway."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_storagetanks_409.png<img_path>",
+        "output": "We can see a big green plants in the picture with some buildings."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_storagetanks_410.png<img_path>",
+        "output": "Eight tanks of different sizes are located near barrelan."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_storagetanks_411.png<img_path>",
+        "output": "It is gray roads, white buildings, gray buildings, black buildings,green treesand lawn, and black gray trains."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_storagetanks_412.png<img_path>",
+        "output": "The grassy ground is surrounded by roads and there are several cylindrical storage tanks connected by pipelines."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_storagetanks_413.png<img_path>",
+        "output": "Three large reservoirs are surrounded by square white pipes, while the other two reservoirs are surrounded by almost square pipes."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_storagetanks_414.png<img_path>",
+        "output": "There are many tanks in the picture."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_storagetanks_415.png<img_path>",
+        "output": "The residential area is located near the reservoir and surrounded by the sea on three sides."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_storagetanks_416.png<img_path>",
+        "output": "There is a lot of bare land near the factory."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_storagetanks_417.png<img_path>",
+        "output": "Many storage tanks were built beside the gray house."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_storagetanks_418.png<img_path>",
+        "output": "There is a huge factory by the side of the road."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_storagetanks_419.png<img_path>",
+        "output": "There are many trees and lawns around the factory."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_storagetanks_420.png<img_path>",
+        "output": "Many large reservoirs have been built beside the highway."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_storagetanks_421.png<img_path>",
+        "output": "Four blue tanks standing in a line and four white tanks standing in a line is near a parking lot with some cars."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_storagetanks_422.png<img_path>",
+        "output": "The color of the spherical tank is white."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_storagetanks_423.png<img_path>",
+        "output": "There are many spherical and cylindrical tanks on the ground."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_storagetanks_424.png<img_path>",
+        "output": "There are many buildings and green trees standing near the two rows of reservoirs."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_storagetanks_425.png<img_path>",
+        "output": "Four rows of white and black fuel tanks are arranged neatly."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_storagetanks_426.png<img_path>",
+        "output": "Some reservoirs are surrounded by green grasslands and bare land."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_storagetanks_427.png<img_path>",
+        "output": "Three large white storerooms and some green trees are on the bank of the river."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_storagetanks_428.png<img_path>",
+        "output": "Many reservoirs are located in factories near the grassland."
+    },
+    {
+        "input": "Write a description for the photo.<img_path>rsitmd_viaduct_429.png<img_path>",
+        "output": "This viaduct is very curved."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_viaduct_430.png<img_path>",
+        "output": "The winding road formed a viaduct on the yellow lawn."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_viaduct_431.png<img_path>",
+        "output": "A road passes through the middle of the wasteland."
+    },
+    {
+        "input": "Could you use a few words to describe what you perceive in the photo?<img_path>rsitmd_viaduct_432.png<img_path>",
+        "output": "There are gray roads, dark green lawn and brown land."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_viaduct_433.png<img_path>",
+        "output": "The viaduct is on a large area of green grass."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_viaduct_434.png<img_path>",
+        "output": "It is a rather complicated traffic facility with flyovers overpass one another next to the residential area."
+    },
+    {
+        "input": "Briefly describe the content of the image.<img_path>rsitmd_viaduct_435.png<img_path>",
+        "output": "Some buildings and green trees are located on both sides of the viaduct."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_viaduct_436.png<img_path>",
+        "output": "An overpass bridged the highway around some pale green trees."
+    },
+    {
+        "input": "Use a few words to illustrate what is happening in the picture.<img_path>rsitmd_viaduct_437.png<img_path>",
+        "output": "There is a house with a gray roof beside the overpass."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_viaduct_438.png<img_path>",
+        "output": "A road that has only a few roads and lush green trees, no place for building."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_viaduct_439.png<img_path>",
+        "output": "There are many houses on one side of the viaduct."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_viaduct_440.png<img_path>",
+        "output": "There is a service area with three circles at the corner of the viaduct."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_viaduct_441.png<img_path>",
+        "output": "The long wide viaduct stretches with its side roads over the road below alongside a dense residential area."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_viaduct_442.png<img_path>",
+        "output": "A diamand shaped viaduct combined with four ring shaped ramps looking like petals is surrounded by buildings."
+    },
+    {
+        "input": "A photo of<img_path>rsitmd_viaduct_443.png<img_path>",
+        "output": "A symmetrical viaduct and four ring roads are surrounded by neatly arranged buildings."
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_viaduct_444.png<img_path>",
+        "output": "There are many green trees and viaducts nearby."
+    },
+    {
+        "input": "Provide a description of what is presented in the photo.<img_path>rsitmd_viaduct_445.png<img_path>",
+        "output": "Next to the overpass is populated residential area."
+    },
+    {
+        "input": "Write a short description for the image.<img_path>rsitmd_viaduct_446.png<img_path>",
+        "output": "The viaduct is surrounded by an oval surface"
+    },
+    {
+        "input": "Can you briefly explain what you see in the image?<img_path>rsitmd_denseresidential_447.png<img_path>",
+        "output": "There is a major crossroads in the area, with bare green and white buildings on one side and bare green and white buildings on the other."
+    },
+    {
+        "input": "An image that shows<img_path>rsitmd_airport_448.png<img_path>",
+        "output": "The plane was surrounded by some vehicles."
+    },
+    {
+        "input": "Please provide a short depiction of the picture.<img_path>rsitmd_intersection_449.png<img_path>",
+        "output": "This is a medium residential area with a narrow road goes through this area."
+    },
+    {
+        "input": "A short image caption:<img_path>rsitmd_playground_450.png<img_path>",
+        "output": "There is a small tennis court and surrounded by some plants and some houses beside."
+    },
+    {
+        "input": "Using language, provide a short account of the image.<img_path>rsitmd_storagetanks_451.png<img_path>",
+        "output": "The storage tanks are on the floor and some containers are arranged neatly."
+    }
+]
