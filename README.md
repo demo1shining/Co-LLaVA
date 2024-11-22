@@ -4,7 +4,8 @@
 ### Preparing environment for CoCa
 ```bash
 pip install open_clip_torch
-'''
+```
+
 ### Preparing environment for LLaVA
 ```bash
 conda create -n llava python=3.10 -y
