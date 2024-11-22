@@ -6,7 +6,7 @@
 pip install open_clip_torch
 ```
 
-### Preparing environment for LLaVA
+### Preparing environment for Updated_LLaVA
 ```bash
 conda create -n llava python=3.10 -y
 conda activate llava
