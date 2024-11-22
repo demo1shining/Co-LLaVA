@@ -1,9 +1,18 @@
 ### Co-LLaVA: Efficient Remote Sensing Visual Question Answering via Model Collaboration
-![image](https://github.com/user-attachments/assets/c8c3e464-c205-4d13-bab4-190a4e782e9a)
+[whole pipeline.pdf](https://github.com/user-attachments/files/17869075/whole.pipeline.pdf)
 
-### Preparing environment via official code of CoCa and LLaVA
-CoCa: https://github.com/mlfoundations/open_clip
-LLaVA: https://github.com/haotian-liu/LLaVA
+
+### Preparing environment for CoCa
+```bash
+pip install open_clip_torch
+'''
+### Preparing environment for LLaVA
+```bash
+conda create -n llava python=3.10 -y
+conda activate llava
+pip install --upgrade pip  # enable PEP 660 support
+pip install -e .
+```
 
 ###  Running training code of CoCa
 ```bash
