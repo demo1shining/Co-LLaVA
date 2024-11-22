@@ -1,6 +1,5 @@
 ### Co-LLaVA: Efficient Remote Sensing Visual Question Answering via Model Collaboration
-[whole pipeline.pdf](https://github.com/user-attachments/files/17869075/whole.pipeline.pdf)
-
+![image](https://github.com/user-attachments/assets/37dff348-f802-439a-bcf7-bc5999ccdda4)
 
 ### Preparing environment for CoCa
 ```bash
