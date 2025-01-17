@@ -1,6 +1,9 @@
 ### Co-LLaVA: Efficient Remote Sensing Visual Question Answering via Model Collaboration
 ![image](https://github.com/user-attachments/assets/37dff348-f802-439a-bcf7-bc5999ccdda4)
 
+### Preparing data
+Data of Co-LLaVA come from [RSVQA](https://rsvqa.sylvainlobry.com/). Please prepare the data following the data format used by [LLaVA](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/blob/main/llava_v1_5_mix665k.json). 
+
 ### Preparing environment for CoCa
 ```bash
 pip install open_clip_torch
